@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46684349136",
+    "project_id": "flutter-ecomassignment",
+    "storage_bucket": "flutter-ecomassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46684349136:android:87751ff0790c37826834d5",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZR6SiDR66w15qbjLgz3WFMDxMRiFcJW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
